@@ -1,0 +1,26 @@
+{
+  "name": "tailwindcssPractice",
+  "version": "1.0.0",
+  "description": "Repo for practice with tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagcDEV/tailwindcssPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MagcDEV/tailwindcssPractice/issues"
+  },
+  "homepage": "https://github.com/MagcDEV/tailwindcssPractice#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.13",
+    "tailwindcss": "^2.1.2",
+    "vite": "^2.2.3"
+  }
+}
